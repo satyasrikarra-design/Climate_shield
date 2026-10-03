@@ -1,0 +1,6 @@
+{
+  "name": "ClimateShield",
+  "description": "Urban Climate Risk & Resilience Platform turning environmental data into early action for extreme heat and flood hazards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
